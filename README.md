@@ -1,0 +1,1 @@
+# Sistem-Peringatan-Dini-Deforestasi-Berbasis-AI-Satelit
