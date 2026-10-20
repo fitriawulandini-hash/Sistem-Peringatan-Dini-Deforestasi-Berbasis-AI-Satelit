@@ -2,6 +2,8 @@
 
 Repositori ini berisi studi kasus variasi baru untuk materi Pertemuan 6 mengenai analisis perubahan tutupan vegetasi dan atribusi penyebab deforestasi secara otomatis menggunakan AI dan citra satelit[cite: 1].
 
+website: https://fitriawulandini-hash.github.io/Sistem-Peringatan-Dini-Deforestasi-Berbasis-AI-Satelit/
+
 ## 📌 Fitur Aplikasi
 - Kalkulasi penurunan indeks vegetasi satelit (NDVI) untuk mendeteksi perubahan tutupan hutan.
 - Klasifikasi tingkat risiko deforestasi dan atribusi pemicu oleh model AI.
